@@ -2,13 +2,18 @@
 // export const devApiUrl = "http://localhost/react-fca-donation2021/rest";
 
 // development url
-export const devApiUrl = "https://fca.edu.ph/dev-app/rest";
-export const devBaseUrl = "https://fca.edu.ph/dev-app";
-export const devNavUrl = "/dev-app";
+// export const devApiUrl = "https://fca.edu.ph/dev-app/rest";
+// export const devBaseUrl = "https://fca.edu.ph/dev-app";
+// export const devNavUrl = "";
 
 // production url
 // export const devApiUrl = "https://fca.edu.ph/app/rest";
 // export const devBaseUrl = "https://fca.edu.ph/app";
+
+// // cy url
+export const devApiUrl = "http://localhost/fwa/fwc-react-donation/rest";
+export const devBaseUrl = "http://localhost/fwa/fwc-react-donation/public";
+export const devNavUrl = "/dev-app";
 
 // Copyright year
 export const copyrightYear = () => {
